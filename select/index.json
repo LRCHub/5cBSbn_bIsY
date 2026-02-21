@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "眩光",
+  "base_artist": "WANIMA",
+  "createdAt": "2026-02-21T19:29:39.983758Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "眩光",
+      "artist": "WANIMA",
+      "has_synced": true,
+      "path": "select/01_眩光_WANIMA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "眩光 - Genkou",
+      "artist": "WANIMA",
+      "has_synced": true,
+      "path": "select/02_眩光_-_Genkou_WANIMA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "眩光",
+      "artist": "WANIMA",
+      "has_synced": false,
+      "path": "select/pl_01_眩光_WANIMA.txt"
+    }
+  ]
+}
